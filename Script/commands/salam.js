@@ -2,7 +2,7 @@ module.exports.config = {
   name: "salam",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+  credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝐇𝐈𝐌𝐄𝐋_ ☢️",
   description: "auto reply to salam",
   commandCategory: "noprefix",
   usages: "assalamu alaikum",
